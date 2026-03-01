@@ -1,6 +1,5 @@
 # 💫 About Me:
- About Me<br><br>Hi there <br>I’m Ajo Joji (he/him) — a software developer passionate about building new and exciting projects. I enjoy exploring modern web development, clean architecture, and performance-focused solutions. Always learning, always building!<br><br><br>What I Build<br><br>Here are some of my public projects:<br><br>  Portfolio Website – Personal portfolio built with HTML.<br><br>  Hospital Management Web – A web app project.<br><br>  Appointment – JavaScript-based scheduling tool.<br><br>  Product-Book – Booking interface for soda products with JavaScript.<br><br>  Netflix-Clone – A JavaScript clone of a popular streaming UI.<br><br>  Portfolio-Claude – Another HTML portfolio showcase.<br><br>These repositories showcase my skills in HTML, CSS, and JavaScript while highlighting my commitment to learning and building real-world applications.
-
+ About Me<br><br>Hi there <br>I’m Ajo Joji (he/him) — a software developer passionate about building new and exciting projects. I enjoy exploring modern web development, clean architecture, and performance-focused solutions. Always learning, always building!<br><br><br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Ajo Joji) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ajojoji29@gmail.com) 
